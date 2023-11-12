@@ -93,3 +93,17 @@
 
 }
 
+@media screen and (max-width: 630px) {
+    .card{
+        max-width: 90%;
+    }
+
+    .card .advice{
+        font-size: 20px;
+        max-width: 80%;
+    }
+
+    .separator{
+        max-width: inherit;
+    }
+}
